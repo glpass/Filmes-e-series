@@ -23,3 +23,6 @@ https://www.googleapis.com/drive/v3/files/13NYoFJ1jn9uWiUzrrRwC6RkNRpsnBfhh?alt=
 
 #EXTINF:-1 tvg-logo="" group-title="21/08/2021",A Viúva das Sombras
 https://www.googleapis.com/drive/v3/files/1z02rRUHHiBHt0KNCSyFGaCPtoPIuCs65?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
+
+#EXTINF:-1 tvg-logo="" group-title="Séries",Riverdale 5° temporada.
+https://www.googleapis.com/drive/v3/file/1c4pa7HPCPzgSYp9TIMAKd7SDWOwMyvDt?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
