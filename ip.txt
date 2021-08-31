@@ -26,6 +26,3 @@ https://www.googleapis.com/drive/v3/files/1z02rRUHHiBHt0KNCSyFGaCPtoPIuCs65?alt=
 
 #EXTINF:-1 tvg-logo="" group-title="Séries",Riverdale 5° temporada episódio 1
 https://www.googleapis.com/drive/v3/files/1oPcCGeDWx9ZSTPYqb8BGvQwomyXzhmaX?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
-
-#EXTINF:-1 tvg-logo="" group-title="teste",teste
-https://www.googleapis.com/drive/v3/files/1dDJRbYwNdeQ7T7rSTsW7yGuymXKuRJSV?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
