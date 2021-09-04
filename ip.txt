@@ -32,3 +32,11 @@ https://www.googleapis.com/drive/v3/files/1cGd9lp97yU2vSA4QXa4J-34kx-Xm0wDs?alt=
 
 EXTINF:-1 tvg-logo="" group-title="Séries",Riverdale 5° temporada episódio 3
 https://www.googleapis.com/drive/v3/files/1Zp-wbsvj-w-egYdwAeWDKdoEQYGtBgw2?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
+
+EXTINF:-1 tvg-logo="" group-title="Séries",Riverdale 5° temporada episódio 4
+https://www.googleapis.com/drive/v3/files/1ujMRfuocYF1dzzVTKyI9rCA72d3oK3mi?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
+
+EXTINF:-1 tvg-logo="" group-title="Séries",Riverdale 5° temporada episódio 5
+https://www.googleapis.com/drive/v3/files/1LdEh7LIzuB82JYYYDTVCIkWgw7btNlX4?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
+
+
