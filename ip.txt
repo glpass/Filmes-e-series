@@ -7,7 +7,7 @@ https://www.googleapis.com/drive/v3/files/1cCAQudFDELSr_SzhkxkJQ_rEyTxzRXXM?alt=
 https://www.googleapis.com/drive/v3/files/1DcIINRCGZa9sDGuWPBluMe-sdENrumIN?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
 
 #EXTINF:-1 tvg-logo="" group-title="21/08/2021",Infinito
-https://www.googleapis.com/drive/v3/files/1WiDq-vNsU1Q1HJpNogkZwtJadB_ALems?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
+https://www.googleapis.com/drive/v3/files/WiDq-vNsU1Q1HJpNogkZwtJadB_ALems?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
 
 #EXTINF:-1 tvg-logo="" group-title="21/08/2021",A Barraca do Beijo 3
 https://www.googleapis.com/drive/v3/files/1mIfmMtVznj02K6ZNxBh7eWv-lshba5oa?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
