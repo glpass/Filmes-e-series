@@ -45,5 +45,5 @@ https://www.googleapis.com/drive/v3/files/1IDPkJ_cOa_TECVv1MhZaNcCVvhyMUsIM?alt=
 #EXTINF:-1 tvg-logo="" group-title="Séries",Teste
 https://c.degoo.eu/?p=BxxCL1ZcIyguDDskLQFcPBQIADANF0I4HDg7VQBXSgYYVjQIXzc_JgchaTQNHBN9FzI2EF0aZhAsGh9aSRdXVmYoaCYxAzImDAIVBwoHegITJDMFBxElEA02PRI4MThkblQBZ2UGByEgNQ1yMVoBEjEjFlIZOhsZSTB2IDBMfHYLJwYXFS0KDh9edx1rKSsFPSYlEC0CDEwyfistLhMLfyFkH3U4AwQYMX4TDCYzdDgzSRsNJDcKEFdaUk8WcghHYG1xXGgUMA9dM00REydXEyZrOToSQTJADy8rQSF1BiRrZFoMYmsqBhpAL0RwLDw-e0YQ&response-content-disposition=attachment;%20filename=%22Nurses.2020.S01E03.MP4.LEG.BaixarSeriesMP4.Org.mp4%22&ngsw-bypass=1
 
-EXTINF:-1 tvg-logo="" group-title="07/09/2021",OS CAVALEIROS DO ZODÍACO:A LENDA DO SANTUÁRIO
+#EXTINF:-1 tvg-logo="" group-title="07/09/2021",OS CAVALEIROS DO ZODÍACO:A LENDA DO SANTUÁRIO
 https://c.degoo.media/?p=BxxCL1ZcIyguDDskLQFcPBQIADANF0I4HDg7VQBXSgYYVjQIXzc_JgchaTQNHBN9FzI2EF0aZhAsGh9aSRdXVmYobQkjD3VaKT0RL0ALd1VTJAVGOhFGYi9LRWUkIThkblQBZ2UGByEgNQ1yMVoBEjEjFlIZOhsZSTB2IDBMfHYLJwYXFS0KDh9edx1rKSsFPSYlEC0CDEwyfistLhMLfyFkH3U4AwQYMX4TDCYzdDgzSRsNJDcKEFdaUk8WcQ9AYGt3XmgUMA9dM00REydXNCQwJmdvTCNpExMbV3R9FWISKB4YcDdRQxxoQVIG&response-content-disposition=attachment;%20filename=%22Os.Cavaleiros.do.Zodiaco.A.Lenda.do.Santuario.Dublado.720p.2014.WWW.DOWNLOADLIVRE.NET.mp4%22&ngsw-bypass=1
