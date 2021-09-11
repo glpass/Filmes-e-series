@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="" group-title="INFO",INFO, IMPORTANTE!!!
-https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/ADsStz/u8exDg/mp4/ChS3vaqhLowKAL95ofjszyCbFw2AKhAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1632562552&Signature=MucM%2FIto%2Bok29N%2BOC38dUeynQ5Y%3D&ngsw-bypass=1
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/ADsStz/u8exDg/mp4/ChS3vaqhLowKAL95ofjszyCbFw2AKhAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1632562837&Signature=R4Qa7CqUZZ%2BST2lKpXV4jB8Q4Ek%3D&ngsw-bypass=1TJ&Expires=1632562552&Signature=MucM%2FIto%2Bok29N%2BOC38dUeynQ5Y%3D&ngsw-bypass=1
 
 #EXTINF:-1 tvg-logo="" group-title="07/09/2021",Espace Jam:Um Novo Legado
 https://c.degoo.media/?p=BxxCL1ZcIyguDDskLQFcPBQIADANF0I4HDg7VQBXSgYYVjQIXzc_JgchaTQNHBN9FzI2EF0aZhAsGh9aSQwVVmYoahsgDhNYJQMMGkUUSiBSeyI9IgQ_PgoIR3M_IThkblQaJWUGByEgNQ1yMVoBEjEjFlIZOhsZSTB2IDBMfHYLJwYXFS0KDh9edx1rKSsFPSYlEC0CDEwyfistLhMLfyFkH3U4AwQYMX4TDCYzdDgzSRsNJDcKEFdaUk8WcQ9FZ2p0UGgUMA9dM00REydXPwEnNz4nIAJQEjYRcXVfJ2oKcV8tfh4ZQAZ8QVIG&response-content-disposition=attachment;%20filename=%22%5BMOZPUROFILMES.COM%5D%20-%20Space%20Jam%20-%20Um%20Novo%20Legado%202021%20720p%20WEBRip%20DUAL%205.1.mkv%22&ngsw-bypass=1
