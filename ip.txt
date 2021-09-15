@@ -40,7 +40,7 @@ https://www.googleapis.com/drive/v3/files/1cGd9lp97yU2vSA4QXa4J-34kx-Xm0wDs?alt=
 https://www.googleapis.com/drive/v3/files/1Zp-wbsvj-w-egYdwAeWDKdoEQYGtBgw2?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
 
 #EXTINF:-1 tvg-logo="" group-title="Séries",Riverdale 5° temporada episódio 4
-https://c.degoo.eu/?p=BxxCL1ZcIyguDDskLQFcPBQIADANF0I4HDg7VQBXSgYYVjQIXzc_JgchaTQNHBN9FzI2EF0aZhAsGh9aSRdXVmYoaxQQbwoEezQzRXcQbjE3Fl8ZHh8ZCwQdH3QWGzhkblQBZ2UGByEgNQ1yMVoBEjEjFlIZOhsZSTB2IDBMfHYLJwYXFS0KDh9edx1rKSsFPSYlEC0CDEwyfistLhMLfyFkH3U4AwQYMX4TDCYzdDgzSRsNJDcKEFdaUk8WcQBIZ292XGgUMA9dM00REydXHF4uRgwmTkReQlE7XCMcQxULGB0UBh0_dgF3VicwDVdcGg&response-content-disposition=attachment;%20filename=%22AOSEUGOSTO.COM-R.S05E04.720p.Dublado.mp4%22&ngsw-bypass=1
+https://p-def3.pcloud.com/cBZ17X4aeZw0lYfxZZZ3KwAv7Z2ZZINLZkZLFKfkZ7pZ3zZCHZW0ZOHZn5ZHpZBHZp5ZEpZbRZoHZVzZSJZMowqXZdQuknpWg5tV6h3oUffYtpmfCD0Jk/AOSEUGOSTO.COM-R.S05E04.720p.Dublado.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="Séries",Riverdale 5° temporada episódio 5
 https://www.googleapis.com/drive/v3/files/1LdEh7LIzuB82JYYYDTVCIkWgw7btNlX4?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
