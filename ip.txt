@@ -34,7 +34,7 @@ https://www.googleapis.com/drive/v3/files/1z02rRUHHiBHt0KNCSyFGaCPtoPIuCs65?alt=
 https://icecube-us-300.icedrive.io/download?p=KXcRPt1%2FWFbFMCwoygoQbfTZkZ%2FhQJyaPvGHv84Fop0IZ%2BsOwEBn4RSgkB%2Fe41gPyAJVojwU%2BKIwqaFDaD1%2BgAUSSpRMb%2FHhmqIfaL2sIoD2VQmyiYtMoBv%2FKc7qOZd4aTAYx5w6kioWbFAk9L4f4ytgUQL3x%2Bf23wZdocseOOKLMZhj8NnVYSLDlksuPm6O4lVjE7x6zkXar00JKxc6ndcApD9hNbF2efr%2Ba0bYHbLgF2IqLLdCDeCXOISrJQ5c
 
 #EXTINF:-1 tvg-logo="" group-title="Séries",Riverdale 5° temporada episódio 2
-https://www.googleapis.com/drive/v3/files/1cGd9lp97yU2vSA4QXa4J-34kx-Xm0wDs?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
+https://icecube-us-300.icedrive.io/download?p=KXcRPt1%2FWFbFMCwoygoQbfTZkZ%2FhQJyaPvGHv84Fop0IZ%2BsOwEBn4RSgkB%2Fe41gPyAJVojwU%2BKIwqaFDaD1%2BgAUSSpRMb%2FHhmqIfaL2sIoD2VQmyiYtMoBv%2FKc7qOZd4aTAYx5w6kioWbFAk9L4f4ytgUQL3x%2Bf23wZdocseOOKLMZhj8NnVYSLDlksuPm6O4lVjE7x6zkXar00JKxc6ndcApD9hNbF2efr%2Ba0bYHbLgF2IqLLdCDeCXOISrJQ5c
 
 #EXTINF:-1 tvg-logo="" group-title="Séries",Riverdale 5° temporada episódio 3
 https://www.googleapis.com/drive/v3/files/1Zp-wbsvj-w-egYdwAeWDKdoEQYGtBgw2?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
