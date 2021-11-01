@@ -49,7 +49,7 @@ https://www.googleapis.com/drive/v3/files/1LdEh7LIzuB82JYYYDTVCIkWgw7btNlX4?alt=
 https://www.googleapis.com/drive/v3/files/1IDPkJ_cOa_TECVv1MhZaNcCVvhyMUsIM?alt=media&key=AIzaSyB-VY-VH2VYl82FEqQa7U7mgpX_Q9mPOOE
 
 #EXTINF:-1 tvg-logo="" group-title="Séries",Teste
-http://192.168.0.113:1234/storage/emulated/0/Download/seu_episodio.mp4?cd=at
+http://192.168.0.101:9999/seu_episodio.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="07/09/2021",OS CAVALEIROS DO ZODÍACO:A LENDA DO SANTUÁRIO
 https://c.degoo.media/?p=BxxCL1ZcIyguDDskLQFcPBQIADANF0I4HDg7VQBXSgYYVjQIXzc_JgchaTQNHBN9FzI2EF0aZhAsGh9aSRdXVmYobQkjD3VaKT0RL0ALd1VTJAVGOhFGYi9LRWUkIThkblQBZ2UGByEgNQ1yMVoBEjEjFlIZOhsZSTB2IDBMfHYLJwYXFS0KDh9edx1rKSsFPSYlEC0CDEwyfistLhMLfyFkH3U4AwQYMX4TDCYzdDgzSRsNJDcKEFdaUk8WcQ9AYGt3XmgUMA9dM00REydXNCQwJmdvTCNpExMbV3R9FWISKB4YcDdRQxxoQVIG&response-content-disposition=attachment;%20filename=%22Os.Cavaleiros.do.Zodiaco.A.Lenda.do.Santuario.Dublado.720p.2014.WWW.DOWNLOADLIVRE.NET.mp4%22&ngsw-bypass=1
